@@ -1,1 +1,15 @@
-/* Start coding here */
+.block2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(12deg, hsl(0, 100%, 70%), hsl(240, 100%, 70%));
+}
+
+.block1 {
+  width: 400px;
+  background-color: hsla(0, 50%, 100%, 0.5);
+  padding: 10px;
+}
